@@ -1,0 +1,21 @@
+{ "width" : 26
+, "height" : 15
+, "colors" : { 
+,   " ": " "
+,   "0": "white"
+,   "1": "black"
+,   "2": "navy"
+,   "3": "green"
+,   "4": "red"
+,   "5": "brown"
+,   "6": "purple"
+,   "7": "olive"
+,   "8": "yellow"
+,   "9": "lime"
+,   "a": "teal"
+,   "b": "cyan"
+,   "c": "blue"
+,   "d": "pink"
+,   "e": "gray"
+,   "f": "silver" }
+}
